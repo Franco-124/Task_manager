@@ -1,0 +1,7 @@
+2024-12-06 12:43:43,918 - INFO - Calling the function obtener_clima with arguments ('500', '200')
+2024-12-06 12:44:18,327 - INFO - Calling the function obtener_clima with arguments ('35.6895', '139.6917')
+2024-12-06 12:44:19,252 - INFO - obtener_clima returned {'temperatura': 7.4, 'viento': 5.4, 'descripcion': 0}
+2024-12-06 12:44:35,288 - INFO - Calling the function agregar_tarea with arguments ([], 'clima')
+2024-12-06 12:44:35,288 - INFO - agregar_tarea returned None
+2024-12-06 12:44:42,001 - INFO - Calling the function listar_tareas with arguments ([{'descripcion': 'clima', 'completada': False}],)
+2024-12-06 12:44:42,001 - INFO - listar_tareas returned ['0. ❌ clima']
