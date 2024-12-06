@@ -1,0 +1,11 @@
+flask
+requests
+python-dotenv
+loguru
+pytest
+pydantic
+black
+isort
+sqlalchemy
+marshmallow
+aiohttp
